@@ -1,6 +1,7 @@
 # dependencies
 node_modules/
 documents/*
+!documents/sample.txt
 
 # misc
 .env
